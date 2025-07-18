@@ -12,3 +12,6 @@
 
 # Build
 /src/target
+
+# Adminer Theme
+/adminer-themes
