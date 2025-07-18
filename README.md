@@ -4,7 +4,7 @@ A simple REST API used to manipulate the contents of a PostgreSQL database.
 
 ## Features
 
-- GET/POST/PUT/DELETE requests on a single table
+- Run GET/POST/PUT/DELETE requests on a single table
 
 ## Installation
 
